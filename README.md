@@ -67,28 +67,28 @@ Below are some key screenshots showcasing the main features of the Project Manag
 ## 📊 **Dashboard**
 Displays task priority distribution and overall project completion status.
 
-<img src="dashboard.png" width="900"/>
+![Dashboard](./screenshots/dashboard.png)
 
 ---
 
 ## 📝 **Create New Task**
 Users can create tasks with title, description, priority, tags, and due dates.
 
-<img src="create-task.png" width="900"/>
+![Create Task Modal](./screenshots/create-task.png)
 
 ---
 
 ## 📌 **Kanban Board**
 Manage tasks visually using lists: **To Do**, **Work in Progress**, **Under Review**, and **Completed**.
 
-<img src="kanban-board.png" width="900"/>
+![Kanban Board](./screenshots/kanban-board.png)
 
 ---
 
 ## 🔐 **Authentication (Login Page)**
 Secure sign-in powered by **AWS Cognito**.
 
-<img src="login-page.png" width="900"/>
+![Login Page](./screenshots/login-page.png)
 
 ---
 
